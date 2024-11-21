@@ -24,7 +24,7 @@ https://oxy.st/d/gaii(если не качается с гитхаба)
 
 Отключить антивирус
 
-Распаковать архив unrealdemoscanner.zip в отдельную папку
+Распаковать архив unrealdemochecker.zip в отдельную папку
 
 Запустить UnrealDemoScanner.exe
 
