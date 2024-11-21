@@ -1,4 +1,5 @@
-UnrealDemoScanner
+UnrealDemoChecker
+
 Сканер читов по ключевым словам
 
 Плюсы:
