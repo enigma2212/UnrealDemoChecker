@@ -18,7 +18,9 @@ UnrealDemoChecker
 
 Установка и запуск
 
-https://oxy.st/d/gaii
+https://oxy.st/d/gaii(если не качается с гитхаба)
+
+Пароль: Checker
 
 Отключить антивирус
 
